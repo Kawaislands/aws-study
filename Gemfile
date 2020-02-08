@@ -47,7 +47,7 @@ group :development do
   gem 'capistrano'
   gem 'ed25519'
   gem 'bcrypt_pbkdf'
-  gem 'capistrano'Could not find a JavaScript runtime
+  gem 'capistrano'
   gem 'capistrano-rbenv'
   gem 'capistrano-bundler'
   gem 'capistrano-rails'
